@@ -1,0 +1,211 @@
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8757976534
+User Not Found
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8183838838
+Welcome Srinivas Rao B
+
+OTP sent to your phone: 381878
+
+Enter OTP: 381878
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 2
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 1
+Enter PIN: 2827
+Your current balance is: ₹ 25000
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Sun May 25 17:36:19 2025
+------------------------------------------------------------
+Customer Name:     Srinivas Rao B
+Account Number:    40400609771
+Customer Card :      xxxx xxxx xxxx 3060
+Transaction:            Balance Enquiry
+Available Balance:   ₹ 25000
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8722260887
+Welcome Vishwas S S
+
+OTP sent to your phone: 486034
+
+Enter OTP: 567654
+Incorrect OTP. Try again.
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8722260887
+Welcome Vishwas S S
+
+OTP sent to your phone: 155014
+
+Enter OTP: 155014
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 3
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 1
+Enter PIN: 2119
+Enter amount to Deposit(MAX 20,000): ₹2000
+Deposit Successful
+Your updated balance is: ₹ 2100
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Sun May 25 17:36:19 2025
+------------------------------------------------------------
+Customer Name:     Vishwas S S
+Account Number:    6008731109
+Customer Card :      xxxx xxxx xxxx 7613
+Transaction:            Deposit
+Amount:                 ₹ 2000
+Available Balance:   ₹ 2100
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 7090076326
+Welcome V Sai Kishore
+
+OTP sent to your phone: 311154
+
+Enter OTP: 311154
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 1
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 3
+Enter PIN: 1234
+Invalid PIN
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 7090076326
+Welcome V Sai Kishore
+
+OTP sent to your phone: 786356
+
+Enter OTP: 786356
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 1
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 1
+Invalid Account Type
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 7090076326
+Welcome V Sai Kishore
+
+OTP sent to your phone: 716469
+
+Enter OTP: 716469
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 1
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 3
+Enter PIN: 4567
+Enter amount to withdraw: ₹500
+Withdraw Successful
+Your updated balance is: ₹ 29500
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Sun May 25 17:36:19 2025
+------------------------------------------------------------
+Customer Name:     V Sai Kishore
+Account Number:    40061234990
+Customer Card :      xxxx xxxx xxxx 5022
+Transaction:            Withdraw
+Amount:                  ₹ 500
+Available Balance:   ₹ 29500
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 9902750970
+Welcome Shree Darshan M
+
+OTP sent to your phone: 996311
+
+Enter OTP: 996311
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 4
+Thank you for using our ATM. Goodbye!
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank:
